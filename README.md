@@ -11,4 +11,9 @@ Spark Funds has two minor constraints for investments:
 It wants to invest between 5 to 15 million USD per round of investment
 It wants to invest only in English-speaking countries because of the ease of communication with the companies it would invest in
 
+Following files are uploaded:
+
+1.Spark Funds_Checkpoints.R : Solution in R programming.
+2.Spark Funds Final.pdf : Presentation for the CEO of Sparkfund to indentify the best investment strategies.
+
 
